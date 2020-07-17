@@ -1,0 +1,82 @@
+body {
+    background: rgb(221, 220, 220);
+    color: black;
+}
+
+.navbar {
+    padding: 0px !important;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    margin-left: 4%;
+    background-color: cadetblue;
+    padding-right: 1%;
+    padding-left: 1%;
+    height: 2%;
+    font-size: 26pt;
+}
+
+.contact {
+    color: black;
+    margin-top: 1%;
+
+}
+
+.cont_1 {
+    border: 3px solid black;
+    padding: 2%;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.container {
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+}
+
+h3 {
+    color: cadetblue;
+}
+
+.float-left {
+    float: left;
+}
+
+html, body {
+    position: relative;
+    height: 100%;
+}
+  
+.full-height {
+    height: 60%;
+}
+
+@media screen and (max-width: 768px){
+    .col-md-9 {
+        flex: 0 0 97%;
+        max-width: 97%;
+    }
+}
+
+@media screen and (max-width: 640px){
+    .col-md-9 {
+        flex: 0 0 108%;
+        max-width: 108%;
+        }
+}
+
+footer {
+    color: white;
+    background-color: rgb(34, 34, 34);
+    display: block;
+    font-size: 10pt;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 12%;
+    padding-top: 2%;
+    text-align: center;
+}
