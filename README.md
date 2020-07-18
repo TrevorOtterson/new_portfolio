@@ -13,13 +13,13 @@ Very excited to keep improving this page and adding more about me to it.
 ABOUT ME
 
 <img src="./images/about.jpg" alt="About Me Page" width="300"/>
-In this page I put an image of me and information about me in a personal page and set it as my home screen. I then created a container and put rows and columns inside the container to create spacing between the picture and my text. I floated the picture to the left so the text would wrap when the screen got smaller.
+In this page I put an image of me and information about me in a personal page and set it as my home screen. I then created a container and put rows and columns inside the container to create spacing between the picture and my text. I floated the picture to the left so the text would wrap when the screen got smaller. I was able to load in functioning favicons that take you to my social accounts, and resume. They have hovering text when you cursor goes over the icon incase you aren't familiar with the logos.
 
 
 PORTFOLIO
 
 <img src="./images/portfolio.jpg" alt="Portfolio Page" width="300"/>
-I used the same template as my about me page and inside the container I put pictures to represent my portfolio and spaced them out using bootstraps grid system with rows and colums. I used line breaks to create space between them vertically. In the css file I made the pictures change position when the window size got to a certain width and height.
+I used the same template as my about me page and inside the container I put pictures to represent my portfolio and spaced them out using bootstraps grid system with rows and colums. I used line breaks to create space between them vertically. In the css file I made the pictures change position when the window size got to a certain width and height. Each picture is a clickable link that takes you to my project url referenced in the photo.
 
 
 CONTACT
